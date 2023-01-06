@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.01401f51.css",
-    "main.js": "/static/js/main.e9d27d0b.js",
-    "static/js/787.ebd7646a.chunk.js": "/static/js/787.ebd7646a.chunk.js",
-    "index.html": "/index.html",
-    "main.01401f51.css.map": "/static/css/main.01401f51.css.map",
-    "main.e9d27d0b.js.map": "/static/js/main.e9d27d0b.js.map",
-    "787.ebd7646a.chunk.js.map": "/static/js/787.ebd7646a.chunk.js.map"
+    "main.css": "/Amazon-clone-using-React-Js/static/css/main.01401f51.css",
+    "main.js": "/Amazon-clone-using-React-Js/static/js/main.1893bcee.js",
+    "static/js/787.ebd7646a.chunk.js": "/Amazon-clone-using-React-Js/static/js/787.ebd7646a.chunk.js",
+    "index.html": "/Amazon-clone-using-React-Js/index.html",
+    "main.01401f51.css.map": "/Amazon-clone-using-React-Js/static/css/main.01401f51.css.map",
+    "main.1893bcee.js.map": "/Amazon-clone-using-React-Js/static/js/main.1893bcee.js.map",
+    "787.ebd7646a.chunk.js.map": "/Amazon-clone-using-React-Js/static/js/787.ebd7646a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01401f51.css",
-    "static/js/main.e9d27d0b.js"
+    "static/js/main.1893bcee.js"
   ]
 }
